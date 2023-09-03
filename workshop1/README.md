@@ -1,4 +1,4 @@
-# 1st Workshop
+# Workshop 1
 
 This folder contains my solutions for the following exercises, each addressing a specific task using the indicated programming structures and statements.
 
